@@ -1,50 +1,50 @@
 [{
 		"name": "Wall 01",
 		"author": "Dosarts",
-		"url": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/walls/01.png",
-		"thumbnail": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/thumbs/01.png"
+		"url": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/walls/01.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/thumbs/01.png"
 	},
 	{
 		"name": "Wall 02",
 		"author": "Dosarts",
-		"url": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/walls/02.png",
-		"thumbnail": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/thumbs/02.png"
+		"url": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/walls/02.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/thumbs/02.png"
 	},
 	{
 		"name": "Wall 03",
 		"author": "Dosarts",
-		"url": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/walls/03.png",
-		"thumbnail": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/thumbs/03.png"
+		"url": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/walls/03.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/thumbs/03.png"
 	},
 	{
 		"name": "Wall 04",
 		"author": "Dosarts",
-		"url": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/walls/04.png",
-		"thumbnail": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/thumbs/04.png"
+		"url": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/walls/04.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/thumbs/04.png"
 	},
 	{
 		"name": "Wall 05",
 		"author": "Dosarts",
-		"url": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/walls/05.png",
-		"thumbnail": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/thumbs/05.png"
+		"url": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/walls/05.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/thumbs/05.png"
 	},
 	{
 		"name": "Wall 06",
 		"author": "Dosarts",
-		"url": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/walls/06.png",
-		"thumbnail": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/thumbs/06.png"
+		"url": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/walls/06.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/thumbs/06.png"
 	},
 	{
 		"name": "Wall 07",
 		"author": "Dosarts",
-		"url": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/walls/07.png",
-		"thumbnail": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/thumbs/07.png"
+		"url": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/walls/07.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/thumbs/07.png"
 	},
 	{
 		"name": "Wall 08",
 		"author": "Dosarts",
-		"url": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/walls/08.png",
-		"thumbnail": "https://gitlab.com/dougschuindt/wallpapers/-/raw/main/material/thumbs/08.png"
+		"url": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/walls/08.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/dosartsdesign/wallpapers@main/material/thumbs/08.png"
 	}
 
 ]
